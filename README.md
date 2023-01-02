@@ -10,4 +10,4 @@ Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pix
 #### About the Model Building:
 In this I have trained Deep Learning Models based on Artificial Neural Network and Convolutional Neural Network. and Compared the performance of system.
 On Test set: CNN accuracy: 98% and ANN accuracy: 97% . Both type of models doing pretty well for identifying the handwritten digits.
-##### For Fun: I built the GUI based on python script.
+
