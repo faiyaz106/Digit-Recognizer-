@@ -1,4 +1,4 @@
-### Digit-Recognizer by using Deep Learning
+### Digit-Recognizer using Deep Learning
 
 #### Problem statement: To correctly identify the hand written digits from a dataset of tens of thousands of handwritten images.
 
